@@ -19,9 +19,7 @@ Skills: HTML / CSS / REACT / JS / REACT ROUTER / DAISYUI / NODE JS / EXPRESS JS 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdIbrahimKholil7)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdIbrahimKholil7&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdIbrahimKholil7)  
-
+ 
 ![GitHub metrics](https://metrics.lecoq.io/MdIbrahimKholil7)  
 
 ![Profile views](https://gpvc.arturio.dev/MdIbrahimKholil7)  

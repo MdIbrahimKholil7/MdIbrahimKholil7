@@ -2,7 +2,7 @@
 ### Hi there 👋, I am Ibrahim Kholil
 #### Web Developer
 
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQFngUocDoM0Gg/profile-displaybackgroundimage-shrink_200_800/0/1662109770876?e=1667433600&v=beta&t=d5vK84atD1mcWvT6UuS3H8tDybHbxEpjEqCPPE_R_yM)
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/C5616AQFngUocDoM0Gg/profile-displaybackgroundimage-shrink_350_1400/0/1662109770876?e=1678320000&v=beta&t=gDkwT9N2FWciEmQTSnC-vCyS4BkKlqY96fEDRW2_-O4)
 
 I am a skilled professional MERN Stack developer as well as a React Js developer. I love to use my creativity and make something new. Highly passionate to work as a MERN Stack Web Developer for a software firm where I can leverage my talents in Front-End and Back-End Web Development to give excellent customer service. I gather knowledge in various parts of web development by myself.
 

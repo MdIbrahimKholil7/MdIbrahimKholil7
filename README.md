@@ -6,7 +6,7 @@
 
 I am a skilled professional MERN Stack developer as well as a React Js developer. I love to use my creativity and make something new. Highly passionate to work as a MERN Stack Web Developer for a software firm where I can leverage my talents in Front-End and Back-End Web Development to give excellent customer service. I gather knowledge in various parts of web development by myself.
 
-Skills: HTML / CSS / REACT / JS / REACT ROUTER / DAISYUI / NODE JS / EXPRESS JS / MONGODB / Mongoose / Redux / Firebase / Material-UI / Next Js / Typescript / Web RTC
+Skills: HTML / CSS / REACT / JS / REACT ROUTER / DAISYUI / NODE JS / Nest JS / EXPRESS JS / MONGODB / Mongoose / Redux / Firebase / Material-UI / Next Js / Typescript / Web RTC
 
 - 👯 I’m looking to collaborate on open source project 
 - ⚡ Fun fact: I love to learn new technology 

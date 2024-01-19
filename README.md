@@ -2,8 +2,6 @@
 ### Hi there 👋, I am Ibrahim Kholil
 #### Full Stack Web Developer
 
-![I am GitHub Readme Generator's creator]([https://media.licdn.com/dms/image/C5616AQFngUocDoM0Gg/profile-displaybackgroundimage-shrink_350_1400/0/1662109770876?e=1689206400&v=beta&t=WJ852-PyWJN4cpjdgFRg207ra2G1dsmT3gREFeHqaNQ](https://media.licdn.com/dms/image/C5616AQFngUocDoM0Gg/profile-displaybackgroundimage-shrink_350_1400/0/1662109773156?e=1710979200&v=beta&t=oP2xyKsMluGcoGO1Uubc6fG9SZ-2Mj2Oib_ozXVNEKg))
-
 I am a skilled professional MERN Stack developer as well as a React Js developer. I love to use my creativity and make something new. Highly passionate to work as a MERN Stack Web Developer for a software firm where I can leverage my talents in Front-End and Back-End Web Development to give excellent customer service. I gather knowledge in various parts of web development by myself.
 
 Skills: HTML / CSS / REACT / JS / REACT ROUTER / DAISYUI / NODE JS / Nest JS / EXPRESS JS / MONGODB / Mongoose / Redux / Firebase / Material-UI / Next Js / Typescript / Web RTC / Socket-Io / Web-Socket / Redis
